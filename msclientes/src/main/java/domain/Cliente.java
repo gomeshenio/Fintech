@@ -19,6 +19,7 @@ public class Cliente {
 	private String cpf;
 	private String nome;
 	private Integer idade;
+//	private Integer sexo;
 	
 	
 	public Cliente(String cpf, String nome, Integer idade) {
